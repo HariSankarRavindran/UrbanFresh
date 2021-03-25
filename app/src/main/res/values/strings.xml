@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Urbanfresh</string>
+    <string name="location_not_available"><b>Urban Fresh is not available for this location.</b> To Continue shopping for Urban Fresh items , choose another address</string>
+    <string name="categories">Categories</string>
+    <string name="price"><strike>$15.00</strike></string>
+</resources>
